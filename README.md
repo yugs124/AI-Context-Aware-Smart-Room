@@ -60,12 +60,12 @@ pip install -r requirements.txt
 
 4. Run:
 
-python python/main.py
+python python/python.py
 
 
 
 ## 📸 Demo
-
+WhatsApp Image 2026-04-22 at 7.58.51 PM (1).jpeg
 
 
 ---
