@@ -1,4 +1,4 @@
-# AI-Context-Aware-Smart-Room
+# Context-Aware-Smart-Room
 A real-time intelligent system that combines computer vision and embedded sensors to understand room conditions and take automated actions.
 
 ##  Features
