@@ -43,12 +43,6 @@ Camera → Python (OpenCV) → Decision Logic → ESP32 → LED & Servo
 - DANGER → Gas detected
 
 
-## 📁 Project Structure
-
-arduino/ → ESP32 code  
-python/ → OpenCV + logic  
-assets/ → images  
-
 
 ## 🧪 How to Run
 
@@ -60,12 +54,13 @@ pip install -r requirements.txt
 
 4. Run:
 
-python python/python.py
+python.py
 
 
 
 ## 📸 Demo
-**Untitled_Video.mp4**
+Video and demo images are attached!
+For demo video - https://youtube.com/shorts/hg6EIxZy77o?si=Inv1QP_6sTiIceUK
 
 
 ---
